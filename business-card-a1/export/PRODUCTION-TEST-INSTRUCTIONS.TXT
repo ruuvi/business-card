@@ -1,0 +1,13 @@
+What you need:
+==============
+
+* NFC enabled smartphone (Android preferred)
+* That’s all
+
+Production test instructions
+============================
+
+1) Enable your phone’s NFC.
+2) Move the business card close to the phone.
+3) LED turns on and the phone informs you about the (empty) tag.
+4) Test is PASSED.
