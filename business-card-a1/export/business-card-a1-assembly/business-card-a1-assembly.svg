@@ -12,8 +12,8 @@
    height="5.4118147cm"
    viewBox="0 0 33749.578 21306.377"
    id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="businesscard_a1-F.Cu.svg">
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="business-card-a1-assembly.svg">
   <metadata
      id="metadata386">
     <rdf:RDF>
@@ -37,21 +37,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1436"
-     inkscape:window-height="855"
+     inkscape:window-width="1280"
+     inkscape:window-height="755"
      id="namedview382"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="4.8043973"
-     inkscape:cx="92.389057"
-     inkscape:cy="125.78236"
-     inkscape:window-x="4"
-     inkscape:window-y="0"
+     inkscape:zoom="38.435178"
+     inkscape:cx="58.285683"
+     inkscape:cy="125.68513"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g5447" />
+     inkscape:current-layer="g5132" />
   <title
      id="title4">SVG Picture created as businesscard_a1-F.Cu.svg date 2016/01/26 14:25:47 </title>
   <desc
@@ -1053,6 +1053,12 @@
          id="path5136"
          d="m 47263,36988 -39,0"
          inkscape:connector-curvature="0" />
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.87402201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="path1194"
+         cx="47471.527"
+         cy="35742.961"
+         r="48.783474" />
     </g>
     <g
        id="g5138"

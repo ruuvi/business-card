@@ -1,0 +1,6 @@
+Board: Business Card Rev.A1
+
+U1 NXP NT3H1201W0FHK
+R1 470ohm +-10%
+C1 220n +-20%
+D1 Kingbright APHHS1005SECK
